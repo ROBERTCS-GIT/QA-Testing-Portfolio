@@ -15,6 +15,6 @@ Este documento define la estrategia para validar el correcto funcionamiento del 
 - No deben existir errores críticos (Blockers) pendientes de resolver.
 - El 100% de los casos de prueba críticos deben haber pasado con éxito.
 ## 5. Entorno de Pruebas (Toolstack)
-- **Gestión:** GitHub / Jira.
+- **Gestión:** Herramientas ITSM (Experiencia en Gilat) y GitHub Issues.
 - **Pruebas de API:** Postman.
 - **Navegadores:** Chrome y Microsoft Edge.
